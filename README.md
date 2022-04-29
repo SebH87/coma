@@ -1,4 +1,4 @@
-# coma
+# CoMA
 CoMA Pipeline for amplicon sequencing data analysis
 
 ## ATTENTION!
